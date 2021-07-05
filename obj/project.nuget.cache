@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "tfc3j2sehkJH1UOawx1Sr9X3gZGU9Yq7G/e3MzLOv1mvbBmrjlP00cUNZCeYoIHdbubgmRw3/0d2M93InNiSag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rs040\\Desktop\\sanic_test\\sanic_test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rs040\\.nuget\\packages\\elasticsearch.net\\7.13.1\\elasticsearch.net.7.13.1.nupkg.sha512",
+    "C:\\Users\\rs040\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\rs040\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\rs040\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\rs040\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

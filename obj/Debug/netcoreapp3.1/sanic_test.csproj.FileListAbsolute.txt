@@ -1,0 +1,17 @@
+C:\Users\rs040\Desktop\sanic_test\obj\Debug\netcoreapp3.1\sanic_test.AssemblyInfoInputs.cache
+C:\Users\rs040\Desktop\sanic_test\obj\Debug\netcoreapp3.1\sanic_test.AssemblyInfo.cs
+C:\Users\rs040\Desktop\sanic_test\obj\Debug\netcoreapp3.1\sanic_test.csproj.CoreCompileInputs.cache
+C:\Users\rs040\Desktop\sanic_test\bin\Debug\netcoreapp3.1\sanic_test.exe
+C:\Users\rs040\Desktop\sanic_test\bin\Debug\netcoreapp3.1\sanic_test.deps.json
+C:\Users\rs040\Desktop\sanic_test\bin\Debug\netcoreapp3.1\sanic_test.runtimeconfig.json
+C:\Users\rs040\Desktop\sanic_test\bin\Debug\netcoreapp3.1\sanic_test.runtimeconfig.dev.json
+C:\Users\rs040\Desktop\sanic_test\bin\Debug\netcoreapp3.1\sanic_test.dll
+C:\Users\rs040\Desktop\sanic_test\bin\Debug\netcoreapp3.1\sanic_test.pdb
+C:\Users\rs040\Desktop\sanic_test\obj\Debug\netcoreapp3.1\sanic_test.dll
+C:\Users\rs040\Desktop\sanic_test\obj\Debug\netcoreapp3.1\sanic_test.pdb
+C:\Users\rs040\Desktop\sanic_test\obj\Debug\netcoreapp3.1\sanic_test.genruntimeconfig.cache
+C:\Users\rs040\Desktop\sanic_test\obj\Debug\netcoreapp3.1\sanic_test.csproj.AssemblyReference.cache
+C:\Users\rs040\Desktop\sanic_test\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+C:\Users\rs040\Desktop\sanic_test\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rs040\Desktop\sanic_test\obj\Debug\netcoreapp3.1\sanic_test.csproj.CopyComplete
+C:\Users\rs040\Desktop\sanic_test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
