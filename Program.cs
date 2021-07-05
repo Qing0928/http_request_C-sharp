@@ -13,7 +13,7 @@ namespace sanic_test
         static readonly HttpClient client = new HttpClient();
         static async Task Main(string[] args)
         {
-            //url 範例 http://111.253.224.213:9000/api
+            //url 範例 http://*.*.*.*:9000/api
             //ip 可能過幾天就會跳掉
             //以下url都是localhost的測試,使用前要改
 
